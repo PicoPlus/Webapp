@@ -1,0 +1,21 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "../../../../../Desktop/SampleCodeCSharp (1)/New Csharp Sample/WSDLSample/Web References/PanelSMS/server.wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, SMS"
+    ],
+    "references": [
+      "HubSpot.NET, {HubSpot.NETCORE, 1.0.32}",
+      "Newtonsoft.Json, {Newtonsoft.Json, 13.0.3}",
+      "RestSharp, {RestSharp, 106.6.9}"
+    ],
+    "targetFramework": "net7.0",
+    "typeReuseMode": "All"
+  }
+}
